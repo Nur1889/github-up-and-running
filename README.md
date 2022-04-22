@@ -1,4 +1,4 @@
-# github-up-and-running
+
 # Welcome to this repo
 # Please execute the following command 
 ```
